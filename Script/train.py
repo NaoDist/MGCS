@@ -1,6 +1,3 @@
-""" Finetuning BERTRL for scoring.
-Adapted from huggingface transformers sequence classification on GLUE"""
-
 
 import dataclasses
 import logging
