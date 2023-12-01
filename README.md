@@ -1,6 +1,6 @@
-# MCSC
+# MGCS
 
-《Exploring Multi-granularity Contextual Semantics via Similar Cases for Fully Inductive Knowledge Graph Completion》
+《Exploring Multi-granularity Contextual Semantics for Fully Inductive Knowledge Graph Completion》
 
 Code structure：
 Data: All datasets used in this work, including training, validation, and test sets
